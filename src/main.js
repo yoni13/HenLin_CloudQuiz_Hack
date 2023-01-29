@@ -9,7 +9,7 @@ function main() {
             var link = document.querySelector("body > div.container.main-container > div.question-block > div:nth-child("+now+") > iframe").src;
             var element = document.querySelector("body > div.container.main-container > div.question-block > div:nth-child("+now+") > iframe")
             console.log(link);
-            // fetch(link, {})
+            // fetch('https://cors-proxy-1lp4.onrender.com/'+link, {})
             // .then((response) => {
             //     console.log(response);
             //     return response.json(); 
