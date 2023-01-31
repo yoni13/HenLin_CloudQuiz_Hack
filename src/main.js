@@ -1,4 +1,4 @@
-console.log('Hanlin Cloud Quiz Helper injected!');
+console.log('Hanlin Cloud Quiz Helper injected!,DONT USE THIS IN EXAM!');
 console.log('v'+chrome.runtime.getManifest().version);
 var now = 0;//we procced 0 question
 console.log('Hanlin Cloud Quiz Helper is waiting 15s for the page to load...');
@@ -21,7 +21,7 @@ async function main() {
                 scripts = scripts.replace(/\n.*$/, '');scripts = scripts.replace(/\n.*$/, '');scripts = scripts.replace(/\n.*$/, '');scripts = scripts.replace(/\n.*$/, '');scripts = scripts.replace(/\n.*$/, '');scripts = scripts.replace(/\n.*$/, '');//replace the last 6 lines
                 scripts = scripts.replace('var itemData = ','');
                 if (scripts.startsWith('		{')){//its unbase64
-                    jsonfile = scripts.replace(';', '')
+                    //jsonfile = scripts.replace(';',''); //This cause syntax error while parse json in some cases
                 }
                 else{//its base64
                     scripts = scripts.substring(0, scripts.length - 1);scripts = scripts.substring(0, scripts.length - 1);scripts = scripts.substring(0, scripts.length - 1);
@@ -34,12 +34,15 @@ async function main() {
                     console.log(now +' ans: '+ answer)
                 }
                 catch(e){
-                    console.log('Hanlin Cloud Quiz Helper error: ' + e);
+                    console.log('Hanlin Cloud Quiz Helper error at question ' + now);
+                    console.log(e);
+                    console.log(jsonfile);
                 }
                 
             })
         }
     } catch (e) {
         console.log('Hanlin Cloud Quiz Helper error: ' + e);
+        console.log('This might be the end of the quiz.If not, please open an issue at github:yoni13.');
     }
 }
