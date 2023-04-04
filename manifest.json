@@ -2,20 +2,21 @@
   "name": "Hanlin Cloud Quiz Helper",
   "action": {},
   "manifest_version": 3,
-  "version": "0.2",
+  "version": "0.3",
   "description": "A helper for Hanlin Cloud Quiz",
   "icons": {
     "48": "src/favicon.png"
   },
   "content_scripts": [
       {
-            "matches": ["https://qt.hle.com.tw/examine.html*"],
-            "js": ["src/main.js"],
-            "run_at": "document_start"
+        "matches": ["https://d1ocvtypb16jkr.cloudfront.net/*"],
+        "js": ["src/frame.js"],
+        "run_at": "document_end",
+        "all_frames":true
       }
     ],
     "web_accessible_resources": [{
-        "resources": ["src/main.js"],
-        "matches": ["https://qt.hle.com.tw/*"]
+        "resources": ["src/frame.js"],
+        "matches": ["https://d1ocvtypb16jkr.cloudfront.net/*"]
       }]
 }
