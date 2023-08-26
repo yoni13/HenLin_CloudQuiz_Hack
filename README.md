@@ -55,14 +55,10 @@
   <ol>
     <li>
       <a href="#about-the-project">關於這個插件</a>
-      <ul>
-        <li><a href="#built-with">使用</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">開始使用</a>
       <ul>
-        <li><a href="#prerequisites">前提</a></li>
         <li><a href="#installation">安裝教學</a></li>
       </ul>
     </li>
@@ -143,7 +139,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/hi_yoniyang) - yoni@nicewhite.xyz
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/yoni13/HenLin_CloudQuiz_Hack](https://github.com/yoni13/HenLin_CloudQuiz_Hack)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
