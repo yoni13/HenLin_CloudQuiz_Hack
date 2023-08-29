@@ -33,10 +33,10 @@
     <img src="https://github.com/yoni13/HenLin_CloudQuiz_Hack/blob/main/src/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">翰林線上速測</h3>
+<h3 align="center">翰林線上速測外掛</h3>
 
   <p align="center">
-    適用翰林線上速測的外掛
+    適用翰林線上速測的外掛，可以在使用翰林線上速測的時候看答案
     <br />
     <a href="https://zeroday.hitcon.org/vulnerability/ZD-2023-00047"><strong>Hitcon Zeroday »</strong></a>
     <br />
