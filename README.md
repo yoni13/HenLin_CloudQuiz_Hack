@@ -38,12 +38,12 @@
   <p align="center">
     適用翰林線上速測的外掛，可以在使用翰林線上速測的時候看答案
     <br />
-    <a href="https://zeroday.hitcon.org/vulnerability/ZD-2023-00047"><strong>Hitcon Zeroday »</strong></a>
+    <a href="https://zeroday.hitcon.org/vulnerability/ZD-2023-00047"><strong>Hitcon Zeroday 平台回報紀錄»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/yoni13/HenLin_CloudQuiz_Hack/issues">Report Bug</a>
+    <a href="https://github.com/yoni13/HenLin_CloudQuiz_Hack/issues">出bug?</a>
     ·
-    <a href="https://github.com/yoni13/HenLin_CloudQuiz_Hack/issues">Request Feature</a>
+    <a href="https://github.com/yoni13/HenLin_CloudQuiz_Hack/issues">請求新功能</a>
   </p>
 </div>
 
@@ -79,7 +79,7 @@
 這個瀏覽器擴充利用了ZD-2023-00047的漏洞，讓你在考試時可以看到密碼  
 歐對這個插件沒有活躍的更新，所以失效或被發現的話你可以開一個issue，但是出事不要怪我歐：D
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">回到上方</a>)</p>
 
 <!-- GETTING STARTED -->
 ## 開始使用
