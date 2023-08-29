@@ -48,6 +48,8 @@
 </div>
 
 
+<strong>此插件僅供開發人員debug使用，那去抄考試的助你被懷疑ㄏㄏ</strong>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
