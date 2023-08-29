@@ -74,9 +74,10 @@
 <!-- ABOUT THE PROJECT -->
 ## 關於這個插件
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![螢幕截圖](https://raw.githubusercontent.com/yoni13/HenLin_CloudQuiz_Hack/main/received_1008823053694124.webp)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+這個瀏覽器擴充利用了ZD-2023-00047的漏洞，讓你在考試時可以看到密碼  
+歐對這個插件沒有活躍的更新，所以失效或被發現的話你可以開一個issue，但是出事不要怪我歐：D
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +138,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/hi_yoniyang) - yoni@nicewhite.xyz
+Yoni Yang - [@hi_yoniyang](https://twitter.com/hi_yoniyang) - yoni@nicewhite.xyz
 
 Project Link: [https://github.com/yoni13/HenLin_CloudQuiz_Hack](https://github.com/yoni13/HenLin_CloudQuiz_Hack)
 
