@@ -54,15 +54,15 @@
   <summary>目錄</summary>
   <ol>
     <li>
-      <a href="#about-the-project">關於這個插件</a>
+      <a href="#關於這個插件">關於這個插件</a>
     </li>
     <li>
-      <a href="#getting-started">開始使用</a>
+      <a href="#開始使用">開始使用</a>
       <ul>
-        <li><a href="#installation">安裝教學</a></li>
+        <li><a href="#安裝教學">安裝教學</a></li>
       </ul>
     </li>
-    <li><a href="#usage">如何使用</a></li>
+    <li><a href="#使用方法">使用方法</a></li>
     <li><a href="#contributing">編輯</a></li>
     <li><a href="#license">授權條款</a></li>
     <li><a href="#contact">聯繫</a></li>
@@ -82,10 +82,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-安裝教學  
-### Installation
+## 開始使用
+  
+### 安裝教學
 
 前往[這裡](https://github.com/yoni13/HenLin_CloudQuiz_Hack/releases)下載最新版本（記得選擇Source code
 (zip)）  
@@ -101,7 +100,7 @@
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## 使用方法
 
 進到翰林的頁面，等個10 ~ 20秒答案就會出來了
 
@@ -109,7 +108,8 @@
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributing  
+這邊我懶得翻譯  
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
