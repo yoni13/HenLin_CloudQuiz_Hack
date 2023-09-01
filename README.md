@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/yoni13/HenLin_CloudQuiz_Hack">
-    <img src="https://github.com/yoni13/HenLin_CloudQuiz_Hack/blob/main/src/favicon.png" alt="Logo" width="80" height="80">
+    <img src="https://gitea.nicewhite.xyz/yoni13/HenLin_CloudQuiz_Hack/raw/branch/main/src/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">翰林線上速測外掛</h3>
